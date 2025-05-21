@@ -19,7 +19,7 @@ function Pagina9() {
     William Magno - Membro<br />
     Murilo Besson - Membro<br />
         </p>
-
+<br/>
         <p>
           Senhoras e senhores, preparem-se para o show de inovação e engenharia de software! A arena está em polvorosa, a energia é palpável e o momento que todos esperavam finalmente chegou! De um lado, temos a promessa de algoritmos que desafiam os limites, a força da arquitetura de sistemas e a inteligência que redefinirá o futuro digital. Eles não vieram para brincadeira, vieram para dominar o código e elevar o desenvolvimento a um novo patamar!
 <br/>

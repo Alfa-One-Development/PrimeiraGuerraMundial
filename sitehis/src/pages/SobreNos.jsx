@@ -10,9 +10,10 @@ function SobreNos() {
     <>
       <Header titulo="Sobre Nós" />
 
-      <img src={imageG} className="imageg" />
       <section className="bloco">
-        <p>
+      <img src={imageG} className="imagemGrupo" />
+        <p className="texto"> 
+          <h2>Sobre Nós</h2>
           Somos um grupo de cinco cabeças (e muitas ideias), cada um com seu
           jeito único, mas juntos formamos um time que se completa — às vezes no
           caos, mas sempre com criatividade e bom humor. Felipe é o nosso líder
@@ -38,7 +39,7 @@ function SobreNos() {
         <iframe
           width="560"
           height="315"
-          src="https://www.youtube.com/embed/dZx7uNhlaXU?si=h53z_dlcssstRSN7"
+          src="https://www.youtube.com/watch?v=yUeHe1Wu7E4"
           title="YouTube video player"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
